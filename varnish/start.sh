@@ -1,0 +1,1 @@
+sudo varnishd -f /etc/varnish/default.vcl -s malloc,300MB -a :81
